@@ -49,3 +49,5 @@ Press create
 And type %USERPROFILE%\Documents\bin
 
 ![typing](https://github.com/move-ton/instruction-for-tonos-cli/raw/main/windows11.png)
+
+When press Win + R and type in new windows powershell. You will get a blue window, and finally you can type tonos-cli
